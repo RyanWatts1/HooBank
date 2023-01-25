@@ -1,12 +1,7 @@
-import './App.css';
+import React from "react";
 
-function App() {
-  return (
-    <div>
-      SafeHarbor Bank
-
-    </div>
-  );
-}
+const App = () => {
+  return <div>SafeHarbor</div>;
+};
 
 export default App;
