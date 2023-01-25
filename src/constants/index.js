@@ -158,8 +158,8 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Our Partners",
+        link: "https://www.hoobank.com/our-partners/",
       },
       {
         name: "Become a Partner",
