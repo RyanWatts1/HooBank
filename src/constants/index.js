@@ -63,7 +63,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "This app is incredibly user-friendly. It is so easy to navigate and use all of its features.",
-    name: "Herman Jensen",
+    name: "Jessica Jensen",
     title: "CEO of Jensen Law Firm",
     img: people01,
   },
